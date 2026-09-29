@@ -1,0 +1,21 @@
+.git
+.venv
+__pycache__
+*.pyc
+.DS_Store
+artifacts/viewer_jobs
+artifacts/dxa3d
+notebooks
+examples
+
+# Source and derived medical data must not enter the runtime image.
+data
+artifacts/*.csv
+artifacts/contact_sheets
+artifacts/full_inference_*
+artifacts/keypoint_dataset
+artifacts/landmark_heatmap_overlay_sheets
+artifacts/landmark_overlay_sheets
+artifacts/rule_error_sheets
+artifacts/spine_artifact_dataset
+artifacts/spine_positioning_dataset

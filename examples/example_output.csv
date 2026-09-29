@@ -1,0 +1,4 @@
+path_to_study,study_uid,image_uid,anatomical_region,quality_class,violation_type,processing_status,time_of_processing
+synthetic-study,1.2.826.0.1.3680043.10.543.20260929.1,1.2.826.0.1.3680043.10.543.20260929.3.2,left_hip,1,hip_positioning_rotation;hip_roi,Success,0.185980
+synthetic-study,1.2.826.0.1.3680043.10.543.20260929.1,1.2.826.0.1.3680043.10.543.20260929.2.2,right_hip,1,hip_positioning_rotation;hip_roi,Success,0.122764
+synthetic-study,1.2.826.0.1.3680043.10.543.20260929.1,1.2.826.0.1.3680043.10.543.20260929.1.2,spine,1,spine_positioning,Success,0.106376

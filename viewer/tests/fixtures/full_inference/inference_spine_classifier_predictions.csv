@@ -1,0 +1,4 @@
+input_source,study_key,member,filename,anatomical_region,is_canonical_for_region,spine_classifier_status,processing_seconds,spine_positioning_prob_bad,spine_positioning_threshold,spine_positioning_pred_bad,spine_artifact_prob_bad,spine_artifact_threshold,spine_artifact_pred_bad
+example_input.zip,synthetic-study,synthetic-study/left_hip.dcm,left_hip.dcm,left_hip,1,skipped_non_spine,0.000003,,,,,,
+example_input.zip,synthetic-study,synthetic-study/right_hip.dcm,right_hip.dcm,right_hip,1,skipped_non_spine,0.000002,,,,,,
+example_input.zip,synthetic-study,synthetic-study/spine.dcm,spine.dcm,spine,1,predicted,0.067576,0.945289,0.780947,1,0.366650,0.381291,0

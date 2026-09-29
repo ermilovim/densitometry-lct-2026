@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+
+# OS/editor
+.DS_Store
+.ipynb_checkpoints/
+
+# Local web viewer uploads and generated previews
+artifacts/viewer_jobs/
+artifacts/dxa3d/
+artifacts/full_inference/
+artifacts/example_run/
+artifacts/submission.csv
+data/
